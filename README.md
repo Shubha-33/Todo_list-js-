@@ -1,1 +1,4 @@
-# Todo_list-js-
+Technologies used:
+HTML
+CSS
+JavaScript
