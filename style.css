@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+
+}
+.content{
+    width: 400px;
+    padding: 30px;
+    background-color: white;
+    color: black;
+    margin: auto;
+    text-align: center;
+    
+}
+input{
+    width: 250px;
+    border: 1px solid gray;
+    padding: 6px;
+    outline: none;
+}
+button{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
